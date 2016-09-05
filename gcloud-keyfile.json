@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "neural-art-87142",
+  "private_key_id": "15eb539c6a046e5bc53afc53e14947ce77aea6ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOpLS+SCAzXXS5\nbChCmTcWpfOEEC4HtMLmLPktligboKLoaEmo2et55SNYEEg1ffb2gdRCU75ePW+g\n5BsikiCH1CGRS8X6pcpifHZanHSh9GUMTOjqQlq0NSAxfJpMuICO0bidjEeKOLcx\nkuD1n+YS+gnzGlqSdYy7vfLvfF0Qgl4OJrIBG5f3l9ZnxioyeCxC0y71dGFy/jAO\ntVKLPMzyiQ3ye6tsrd4V9ZBJF49MeknTLrBp77CX8RcsmoQY4Ky1V0csKrVzywfT\neZ69OFWJBttGPxahCgw7P1fKW0an9RYEI+Q8XZmpit+qpD45z+gS8dmvf740X0A+\nV0E7yLWLAgMBAAECggEBAIZdhsEruPRtUla3Qz56zd1GLx+yPZv5J7nviF7iAlZk\nj0k7dpn6iSkLm33JqIpPy+Ph65jtRx2UKR+e8x35knl/sAwAD025u+1qLLMihJxC\ng+oJoHGij8QZv0MuWE6GseEr8TVQX7w6wLPVY72TKVExkIKoojgVg1sYWfzrCsCO\nOVu7Zc1WBZNRGRZi2dR0/1ZWVU5Q15YNJn48h76snXFwBIoeybZf+F4WOGG//uAU\n+gxlbpT1VLSl51+QkFxthD0aX1089EraND5TXsFC3TZ9rlndJ9xlMmmX3t2pwWPx\nSXKxZUbc4v3WnRjjXlymFjokWm2urIpjdOuSFAHO4vECgYEA6nJulNseEAJ6EOri\nexpLnXntOfsmEUt19YeC6iroJ3nUqLkRak4AhH/AfCACdHZU/ahST9AgLSnK0MRB\nhN7ryuQE/tUfaAo24fHm8p3i9hF6RcX29Lf1P/ElhKtMXqx157mcOet0ARiz/CuD\n6qGG7IZX/iQjDHFu/xcrhJhO5+cCgYEA4aPuy9DLU+CODC+roiuuYRWXRiJQfQZC\nNwYB3i+9kjkykDNT3BeXHjibt/iKTkWDFaLItAR3fqkXMj/6aqtH/BQPZKlLt3sC\nXY4ABlyr5qAtjbrw7jOK9YHxsUEawixt2+35gYlC1LtQb+SToytCg2xvDq3l6he3\nFH/uL/tMgL0CgYAkviBkhd61RZ4ZzqYGAv38xSIPpzO1HC11eHJk/qp5nVddxftb\nvLPKEDd7fIzF8dGqG1ojFgwk59rYUxmtmD4+AvRhd8c/R/KIAKBgP6xVQjH2g2sL\nuVTfW4y0uR/z6nVkBqvcS/FXRqbWi39WI1CA+yEJPGKdzZ1GrzvrwO8E2wKBgAVN\nWNspON3rtOrMY/gXlq1pWHipbcLCVuP8HCcgcA/zkCCbVCkj1MU9B0u3Z2iXcZEc\nliLEyBoN1yGzJytCgxqFTidLYyAYn+Ga6J09qDxvHyLpdafjRiymtQs5QGu3p403\ndll45D0jeaxnbqCy74kvDx0FMRXjIMY2i15NRWrxAoGBAIxUps3c4jAB8vFFgEtY\nsYn391n1CPzMsgaOj401U5CLXkFht9MUV+RJ0VulRGeGeIzh1MzItVyFsg5WzXAf\nziOM3yj2iVZixch+YQ0zr/MTJ7D0tzLDfnZNsHjki+bysUMpGfM5IAkUCcrrQD08\ngfDuW+UcoGxYl7q5S3znbpL4\n-----END PRIVATE KEY-----\n",
+  "client_email": "server-file-management@neural-art-87142.iam.gserviceaccount.com",
+  "client_id": "117675581394965566349",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/server-file-management%40neural-art-87142.iam.gserviceaccount.com"
+}

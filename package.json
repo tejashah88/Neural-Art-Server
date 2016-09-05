@@ -1,0 +1,19 @@
+{
+  "name": "neural-art-server",
+  "version": "0.0.1",
+  "description": "A server that can make art from regular images and famous paintings.",
+  "main": "server.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "firebase": "^3.3.0",
+    "google-cloud": "^0.39.0",
+    "string": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Tejas Shah",
+  "license": "ISC"
+}
